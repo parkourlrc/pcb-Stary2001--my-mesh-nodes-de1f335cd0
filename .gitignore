@@ -42,3 +42,7 @@ fp-info-cache
 # Don't include gerbers and ibom
 gerbers/
 ibom/
+
+# Fab toolkit outputs
+production/
+fabrication-toolkit-options.json
